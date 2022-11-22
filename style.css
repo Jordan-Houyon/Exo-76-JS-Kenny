@@ -19,3 +19,22 @@
     text-align: center;
     margin-top: 25px;
 }
+
+
+#zone-red {
+    position: absolute;
+    width: 50px;
+    height: 500px;
+    background: red;
+}
+
+p {
+    position: absolute;
+    line-height: 0;
+    margin-top: 0;
+}
+
+#comptage {
+    top:20px;
+    font-size: 70px;
+}
